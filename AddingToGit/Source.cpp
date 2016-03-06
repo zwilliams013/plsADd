@@ -8,6 +8,7 @@ int main()
 	cout << "Added to git";
 
 	int no;
+	int b;
 
 
 }
